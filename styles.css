@@ -1,0 +1,212 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #000;
+  color: #f5f5f5;
+  line-height: 1.6;
+}
+
+/* Toggle Switch */
+.toggle-container {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  color: white;
+  font-size: 14px;
+}
+
+/* Hero Section */
+.hero {
+  position: relative;
+  text-align: center;
+  background-color: #000;
+  padding: 100px 20px 60px;
+
+}
+   
+     
+ 
+
+.hero h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+
+.hero-button {
+  background: #ff4d4d;
+  color: white;
+  padding: 10px 25px;
+  text-decoration: none;
+  border-radius: 25px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.hero-button:hover {
+  background: #e60000;
+}
+
+/* About Section */
+.about {
+  padding: 60px 20px;
+  text-align: center;
+  background-color: #413e45d0;
+}
+
+.about h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.about p {
+  max-width: 700px;
+  margin: auto;
+  font-size: 1rem;
+  color: #ccc;
+}
+
+/* Gallery */
+.gallery {
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.gallery h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.gallery-images {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.gallery-images img {
+  width: 300px;
+  border-radius: 10px;
+}
+
+/* Menu Section */
+.menu {
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.menu h2 {
+  font-size: 2rem;
+  margin-bottom: 30px;
+}
+
+.menu-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 20px;
+  padding: 0 20px;
+}
+
+.menu-grid img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+/* Booking Section */
+.booking {
+  padding: 60px 20px;
+  text-align: center;
+  background-color: #111;
+}
+.booking h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.booking form {
+  max-width: 400px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.booking input,
+.booking button {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+}
+
+.booking button {
+  background: #ff4d4d87;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/* Contact Section */
+.contact {
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.contact h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.contact form {
+  max-width: 400px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.contact input,
+.contact textarea,
+.contact button {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+}
+
+.contact button {
+  background: #ff4d4d;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/* Footer */
+.footer {
+  padding: 20px;
+  text-align: center;
+  background-color: #605757;
+  font-size: 14px;
+  color: #888;
+}
+
+.footer .socials {
+  margin-top: 10px;
+}
+
+.footer a {
+  margin: 0 10px;
+  color: #ff4d4d;
+  text-decoration: none;
+}
