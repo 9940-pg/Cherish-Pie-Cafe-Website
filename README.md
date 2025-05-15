@@ -8,11 +8,19 @@ Visit the live website here:
 *[Cherish Pie Cafe Website](https://9940-pg.github.io/Cherish-Pie-Cafe-Website/)*
 
 ---
-
 ## Screenshots
 
 Preview of the website in action:
-[Screenshot1](screenshots/Screenshot1.png)
+
+| Screenshot 1 | Screenshot 2 | Screenshot 3 |
+|--------------|--------------|--------------|
+| ![](screenshots/Screenshot1.png) | ![](screenshots/Screenshot2.png) | ![](screenshots/Screenshot3.png) |
+
+| Screenshot 4 | Screenshot 5 | Screenshot 6 |
+|--------------|--------------|--------------|
+| ![](screenshots/Screenshot4.png) | ![](screenshots/Screenshot5.png) | ![](screenshots/Screenshot6.png) |
+
+
 
 ---
 
