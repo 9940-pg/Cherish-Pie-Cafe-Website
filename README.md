@@ -15,11 +15,11 @@ Preview of the website in action:
 
 | Screenshot 1 | Screenshot 2 | Screenshot 3 |
 |--------------|--------------|--------------|
-| ![ss1](./screenshots/ss1.jpg) | ![ss2](./screenshots/ss2.jpg) | ![ss3](./screenshots/ss3.jpg) |
+| ![ss1](./screenshots/Screenshot(22).png) | ![ss2](./screenshots/Screenshot(23).png) | ![ss3](./screenshots/Screenshot(24).png) |
 
 | Screenshot 4 | Screenshot 5 | Screenshot 6 |
 |--------------|--------------|--------------|
-| ![ss4](./screenshots/ss4.jpg) | ![ss5](./screenshots/ss5.jpg) | ![ss6](./screenshots/ss6.jpg) |
+| ![ss4](./screenshots/Screenshot(25).png) | ![ss5](./screenshots/Screenshot(26).png) | ![ss6](./screenshots/Screenshot(27).pngg) |
 
 ---
 
