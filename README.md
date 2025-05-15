@@ -12,14 +12,7 @@ Visit the live website here:
 ## Screenshots
 
 Preview of the website in action:
-
-| Screenshot 1 | Screenshot 2 | Screenshot 3 |
-|--------------|--------------|--------------|
-| !(./screenshots/Screenshot(22).png) | !(./screenshots/Screenshot(23).png) | !(./screenshots/Screenshot(24).png) |
-
-| Screenshot 4 | Screenshot 5 | Screenshot 6 |
-|--------------|--------------|--------------|
-| !(./screenshots/Screenshot(25).png) | !(./screenshots/Screenshot(26).png) | !(./screenshots/Screenshot(27).pngg) |
+[Screenshot1](screenshots/Screenshot1.png)
 
 ---
 
