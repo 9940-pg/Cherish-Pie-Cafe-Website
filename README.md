@@ -13,12 +13,12 @@ Visit the live website here:
 Preview of the website in action:
 
 
-![screenshots](screenshots/"screenshots(22).png") 
-![screenshots](screenshots/"screenshots(23).png") 
-![screenshots](screenshots/"screenshots(24).png") 
-![screenshots](screenshots/"screenshots(25).png") 
-![screenshots](screenshots/"screenshots(26).png") 
-![screenshots](screenshots/"screenshots(27).png") 
+![screenshots](screenshots/"screenshots20%(22).png") 
+![screenshots](screenshots/"screenshots20%(23).png") 
+![screenshots](screenshots/"screenshots20%(24).png") 
+![screenshots](screenshots/"screenshots20%(25).png") 
+![screenshots](screenshots/"screenshots20%(26).png") 
+![screenshots](screenshots/"screenshots20%(27).png") 
 
 
 
